@@ -1,1 +1,1 @@
-![](app/src/main/res/drawable/toast.gif)
+![](app/src/main/res/drawable/homework.gif)
